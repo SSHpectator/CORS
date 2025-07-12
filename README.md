@@ -9,6 +9,7 @@ It works with .com domain, if you want to scan other type of domain (.es,.it, .f
 ## Installation Process
 ``
 git clone https://github.com/SSHpectator/CORS.git
+cd CORS
 ``
 
 Then
