@@ -1,5 +1,5 @@
 # CORS
-> This tool extract all the **response** **headers** from a website, it also retrieves all the information available using the **WHOAMI** **API** and finally it analyze automatically the CORS's Headers
+> This tool extracts all the **response** **headers** from a website, it also retrieves all the information available using the **WHOAMI** **API** and finally it analyze automatically the CORS's Headers
 > found to find **risky** ones or **broken** CORS policy.
 
 ### Note
