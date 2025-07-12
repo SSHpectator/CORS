@@ -4,7 +4,7 @@
 ---
 ## Installation Process
 ``
-git clone https://github.com/SSHpectator/CORS/
+git clone https://github.com/SSHpectator/CORS.git
 ``
 
 Then
